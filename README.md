@@ -50,11 +50,11 @@ For the first milestone, you need to submit the following as a Word document:
 Submit via a Word document to the assignment link.
 
 Example of Relationships:
-    In case you are confused what is meant by a relationship between the data sources here is an example (this is a very simple example and I would expect your datasets to have more variables)
-    CSV File: Contains a list of stores by store ID and other metadata about the stores
-    Website: Contains a list of store locations, by location ID and store ID and the various departments each store has by department ID.
-    API: Contains the transactions at each store – contains a transaction ID and store ID.
-    All 3 of these data sources are related by Store ID. The CSV file has a 1 to many relationship with the Website by StoreID and has a 1 to many relationship with the API data by StoreID as well.
+- In case you are confused what is meant by a relationship between the data sources here is an example (this is a very simple example and I would expect your datasets to have more variables)
+    - CSV File: Contains a list of stores by store ID and other metadata about the stores
+    - Website: Contains a list of store locations, by location ID and store ID and the various departments each store has by department ID.
+    - API: Contains the transactions at each store – contains a transaction ID and store ID.
+    - All 3 of these data sources are related by Store ID. The CSV file has a 1 to many relationship with the Website by StoreID and has a 1 to many relationship with the API data by StoreID as well.
 
 ## Milestone 2: Cleaning/Formatting Flat Source
 Perform at least 5 data transformation and/or cleansing steps to your flat file data. The below examples are not required - they are just potential transformations you could do. If your data doesn't work for these scenarios, complete different transformations. You can do the same transformation multiple times if needed to clean your data. The goal is a clean dataset at the end of the milestone.
