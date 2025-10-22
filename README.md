@@ -12,40 +12,40 @@ API you will pull data from. You will not be able to export data to CSV for this
 
 Some places you can find datasets are listed below:
 
-    Tableau Community
-    Kaggle Datasets
-    Data.Gov
-    Science.Gov
-    Data.Gov.UK
-    NORC
-    European Social Survey
-    API List
-    Public APIs
-    OpenWeatherMap
+    - Tableau Community
+    - Kaggle Datasets
+    - Data.Gov
+    - Science.Gov
+    - Data.Gov.UK
+    - NORC
+    - European Social Survey
+    - API List
+    - Public APIs
+    - OpenWeatherMap
 
 Wikipedia is a good source to find data that is in a table - and the structure of the HTML is usually very similar regardless of topic.
 There are no restrictions on what dataset you use.
 
 For the first milestone, you need to submit the following as a Word document:
 
-Project Subject Area: Describe your project in 1-2 sentences
-Data Sources:
-    Flat File:
-        Description of data source
-        Link or Flat File uploaded
-    API:
-        Description of data source
-        Link
-    Website:
-        Description of data source
-        Link
-    Relationships
-        Describe how the data from each source is connected (see example below)
-        If there isn't an obvious relationship, explain how you will make one
-    250-500 Words covering the following:
-        Project approach/plan
-        What concerns/challenges you think you will face with the data/project topic
-        Ethical Implications of your project topic
+- Project Subject Area: Describe your project in 1-2 sentences
+- Data Sources:
+    - Flat File:
+        - Description of data source
+        - Link or Flat File uploaded
+    - API:
+        - Description of data source
+        - Link
+    - Website:
+        - Description of data source
+        - Link
+    - Relationships
+        - Describe how the data from each source is connected (see example below)
+        - If there isn't an obvious relationship, explain how you will make one
+- 250-500 Words covering the following:
+    - Project approach/plan
+    - What concerns/challenges you think you will face with the data/project topic
+    - Ethical Implications of your project topic
 
 Submit via a Word document to the assignment link.
 
@@ -61,28 +61,28 @@ Perform at least 5 data transformation and/or cleansing steps to your flat file 
 
 Examples:
 
-    Replace Headers
-    Format data into a more readable format
-    Identify outliers and bad data
-    Find duplicates
-    Fix casing or inconsistent values
-    Conduct Fuzzy Matching
+    - Replace Headers
+    - Format data into a more readable format
+    - Identify outliers and bad data
+    - Find duplicates
+    - Fix casing or inconsistent values
+    - Conduct Fuzzy Matching
 
 
 Make sure you clearly number and label each transformation step (Step #1, Step #2, etc.) in your code and describe what it is doing in 1-2 sentences.
 
 You must submit the following:
 
-    Jupyter Notebook File or PDF of your code with Milestone # listed.
-    Each transformation should be labeled with description or what it is doing.
-    Human readable dataset after all transformations should be printed at the end of your notebook.
-    1 paragraph of the ethical implications of data wrangling specific to your datasource and the steps you completed answering the following questions:
-        What changes were made to the data?
-        Are there any legal or regulatory guidelines for your data or project topic?
-        What risks could be created based on the transformations done?
-        Did you make any assumptions in cleaning/transforming the data?
-        How was your data sourced/verified for credibility?
-        Was your data acquired in an ethical way?
-        How would you mitigate any of the ethical implications you have identified?
+    - Jupyter Notebook File or PDF of your code with Milestone # listed.
+    - Each transformation should be labeled with description or what it is doing.
+    - Human readable dataset after all transformations should be printed at the end of your notebook.
+    - 1 paragraph of the ethical implications of data wrangling specific to your datasource and the steps you completed answering the following questions:
+        - What changes were made to the data?
+        - Are there any legal or regulatory guidelines for your data or project topic?
+        - What risks could be created based on the transformations done?
+        - Did you make any assumptions in cleaning/transforming the data?
+        - How was your data sourced/verified for credibility?
+        - Was your data acquired in an ethical way?
+        - How would you mitigate any of the ethical implications you have identified?
 
 You can submit a Jupyter Notebook or a PDF of your code. If you submit a .py file you need to also include a PDF or attachment of your results.
